@@ -1,18 +1,23 @@
-# csc648-sp19-Team05
+# GatorBnb
 
-- SFSU housing / real estate website project
+SFSU housing website project
 
-## Development
+This is a RESTful web application that function as housing website catered for Sfsu students. It allows users to rent, post, and email like message other users based on listing.
 
-# How to install Repository
+You may checkout the demo live at:
+http://13.57.19.213/
+
+# Development
+
+## How to install Repository
 
 Down the Repo:
 
 ```sh
-git clone https://github.com/CSC-648-SFSU/csc648-sp19-team05.git
+git clone https://github.com/Peter408/gatorBnb.git
 ```
 
-# How to Build and Set Up
+## How to Build and Set Up
 
 - Navigate to root repo and run the following command to download all dependencies Express:
 
@@ -45,7 +50,7 @@ npm run db:migrate
 npm run db:seed
 ```
 
-# How to Run
+## How to Run
 
 - Run backend API in development by running the following command from root repo:
 
